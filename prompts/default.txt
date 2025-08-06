@@ -1,0 +1,10 @@
+Please provide a comprehensive summary of the following YouTube video transcript.
+
+Include:
+1. Main topics and key points
+2. Important insights or conclusions
+3. Any actionable information
+4. Overall theme and purpose
+
+Transcript:
+{transcript}

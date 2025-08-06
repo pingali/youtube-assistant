@@ -1,0 +1,7 @@
+Please provide a comprehensive summary of the following YouTube video transcript.
+
+Include:
+1. Six main takeaways. Each takeaway should be no more than one line
+
+Transcript:
+{transcript}

@@ -17,7 +17,7 @@ A CLI tool that downloads YouTube transcripts and generates summaries using Open
 
 ### Prerequisites
 
-- Python 3.7+
+- Python 3.10+
 - YouTube Data API v3 key
 - OpenAI API key
 - Audio player (mpv or ffplay) for audio playback
